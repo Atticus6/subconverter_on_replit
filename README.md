@@ -46,13 +46,13 @@
 
 ## 修改环境变量
 
-<img src="/Users/atticus/Library/Application%20Support/typora-user-images/image-20230204171021981.png" alt="image-20230204171021981" style="zoom:50%;" />
+<img src="https://img.iweec.cn/img/image-20230204171021981.png" alt="image-20230204171021981" style="zoom:50%;" />
 
 ## 部署
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/)
 
-<img src="/Users/atticus/Library/Application%20Support/typora-user-images/image-20230204174523183.png" alt="image-20230204174523183" style="zoom:50%;" />
+<img src="https://img.iweec.cn/img/image-20230204174523183.png" alt="image-20230204174523183" style="zoom:50%;" />
 
 选择fork的仓库，部署。
 
@@ -64,4 +64,4 @@
 
 - [Netlify](https://app.netlify.com)
 
-- [sub-web](
+- [sub-web](https://github.com/CareyWang/sub-web)
