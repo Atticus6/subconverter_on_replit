@@ -1,4 +1,4 @@
-# subconverter-on-replit
+# subconverter-on-replit 
 
 ## 概述
 
@@ -26,7 +26,7 @@
 ./subconverter
 ```
 
-<img src="https://img.iweec.cn/img/image-20230204150041112.png" alt="image-20230204150041112" style="zoom:50%;" />
+<img src="https://img.iweec.cn/img/image-20230204150041112.png" alt="image-20230204150041112" style="zoom:50%;border-radius:15px" />
 
 ### 自动启动
 
@@ -36,7 +36,7 @@
 
 > 默认提供的可能会被强，推荐绑定自己的
 
-<img src="https://img.iweec.cn/img/image-20230204150407406.png" alt="image-20230204150407406" style="zoom:50%;" />
+<img src="https://img.iweec.cn/img/image-20230204150407406.png" alt="image-20230204150407406" style="zoom:50%;border-radius:15px" />
 
 # 部署前端网址
 
@@ -46,15 +46,31 @@
 
 ## 修改环境变量
 
-<img src="https://img.iweec.cn/img/image-20230204171021981.png" alt="image-20230204171021981" style="zoom:50%;" />
+<img src="https://img.iweec.cn/img/image-20230204171021981.png" alt="image-20230204171021981" style="zoom:50%;border-radius:15px" />
 
 ## 部署
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/)
 
-<img src="https://img.iweec.cn/img/image-20230204174523183.png" alt="image-20230204174523183" style="zoom:50%;" />
+<img src="https://img.iweec.cn/img/image-20230204174523183.png" alt="image-20230204174523183" style="zoom:50%;border-radius:15px" />
 
 选择fork的仓库，部署。
+
+## 许可
+
+`subconverter-on-replit` 是在 AGPL-3.0 许可下许可的开源软件。
+
+## 免责声明
+
+- 本程序为免费开源项目，旨在分享网盘文件，方便下载以及学习，使用时请遵守相关法律法规，请勿滥用；
+- 本程序通过调用官方sdk/接口实现，无破坏官方接口行为；
+- 本程序仅做302重定向/流量转发，不拦截、存储、篡改任何用户数据；
+- 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关；
+- 如有侵权，请通过[邮件](mailto:a@iweec.cn)与我联系，会及时处理。
+
+
+
+
 
 # 鸣谢
 
@@ -65,3 +81,11 @@
 - [Netlify](https://app.netlify.com)
 
 - [sub-web](https://github.com/CareyWang/sub-web)
+
+---
+
+> [@博客](https://www.iweec.cn/) · [@GitHub](https://github.com/Atticus6) · [@Telegram群](https://t.me/+z76QXxWq23U3NTU9) 
+
+
+
+
